@@ -1,7 +1,7 @@
 {
   "unpublishedPage": {
-    "name": "Info2",
-    "slug": "info2",
+    "name": "KeyTracker",
+    "slug": "keytracker",
     "layouts": [
       {
         "viewMode": false,
@@ -1478,7 +1478,7 @@
         "layoutOnLoadActions": [
           [
             {
-              "id": "Info2_SelectQuery",
+              "id": "KeyTracker_SelectQuery",
               "name": "SelectQuery",
               "confirmBeforeExecute": false,
               "pluginType": "DB",
@@ -1494,14 +1494,15 @@
           ]
         ],
         "validOnPageLoadActions": true,
-        "id": "Info2",
+        "id": "KeyTracker",
         "deleted": false,
         "policies": [],
         "userPermissions": []
       }
     ],
     "userPermissions": [],
-    "policies": []
+    "policies": [],
+    "isHidden": false
   },
   "deleted": false,
   "gitSyncId": "632ce4a2c5d2893deecc002c_632d5999c5d2893deecc0078"

@@ -13,7 +13,7 @@
       "policies": [],
       "userPermissions": []
     },
-    "pageId": "Info2",
+    "pageId": "KeyTracker",
     "actionConfiguration": {
       "timeoutInMillisecond": 10000,
       "paginationType": "NONE",
@@ -42,7 +42,7 @@
     "policies": [],
     "userPermissions": []
   },
-  "id": "Info2_UpdateQuery",
+  "id": "KeyTracker_UpdateQuery",
   "deleted": false,
   "gitSyncId": "632ce4a2c5d2893deecc002c_632d5999c5d2893deecc007c"
 }

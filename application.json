@@ -1,16 +1,8 @@
 {
   "pages": [
     {
-      "id": "Info",
+      "id": "KeyTracker",
       "isDefault": true
-    },
-    {
-      "id": "Page3",
-      "isDefault": false
-    },
-    {
-      "id": "Info2",
-      "isDefault": false
     }
   ],
   "viewMode": false,
